@@ -9,6 +9,6 @@ a function that sorts an array of integers in ascending order using the
 The big O notations of the time complexity of the Bubble sort
  algorithm, with 1 notation per line:
 
- in the best case
- in the average case
- in the worst case
+ in the best case <br>
+ in the average case <br>
+ in the worst case <br>
