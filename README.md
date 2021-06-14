@@ -1,7 +1,7 @@
 # C - Sorting algorithms & Big O
 
 - ##### 0-bubble_sort.c and 
-a function that sorts an array of integers in ascending order using the
+A function that sorts an array of integers in ascending order using the
  Bubble sort algorithm <br>
  `void bubble_sort(int *array, size_t size);`
 
