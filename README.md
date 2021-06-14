@@ -5,7 +5,7 @@ A function that sorts an array of integers in ascending order using the
  Bubble sort algorithm <br>
  `void bubble_sort(int *array, size_t size);`
 
-- ##### 0-O
+- ###### 0-O
 The big O notations of the time complexity of the Bubble sort
  algorithm, with 1 notation per line:
 
