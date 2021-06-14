@@ -5,7 +5,7 @@ A function that sorts an array of integers in ascending order using the
  Bubble sort algorithm <br>
  `void bubble_sort(int *array, size_t size);`
 
-       - ###### 0-O
+- ###### 0-O
 The big O notations of the time complexity of the Bubble sort
  algorithm, with 1 notation per line:
 
@@ -18,7 +18,7 @@ A function that sorts a doubly linked list of integers in ascending order using
  the Insertion sort algorithm.<br>
 `void insertion_sort_list(listint_t **list);`
 
-      - ###### 1-O
+- ###### 1-O
 The big O notations of the time complexity of the Insertion sort algorithm,
  with 1 notation per line:
 
@@ -32,7 +32,7 @@ A function that sorts an array of integers in ascending order using the
  Selection sort algorithm
 `void selection_sort(int *array, size_t size);`
 
-      - ###### 2-O
+- ###### 2-O
 
 The big O notations of the time complexity of the Insertion sort algorithm,
  with 1 notation per line:
@@ -47,7 +47,7 @@ A function that sorts an array of integers in ascending order using the Quick so
 
 `void quick_sort(int *array, size_t size);`
 
-      - ###### 3-O
+- ###### 3-O
 The big O notations of the time complexity of the Insertion sort algorithm,
  with 1 notation per line:
 
