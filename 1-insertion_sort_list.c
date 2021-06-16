@@ -2,8 +2,8 @@
 
 /**
  * swap - Swaps two nodes in a doubly linked list
- * @nodeA: first node
- * @nodeB: second node
+ * @node1: first node
+ * @node2: second node
  * @head: the linked list containing the nodes
  */
 
