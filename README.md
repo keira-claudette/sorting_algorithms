@@ -1,5 +1,8 @@
 # C - Sorting algorithms & Big O
 
+<img src="https://weibeld.net/algorithms/assets/sorting-algorithms.png"/>
+
+
 - #### 0-bubble_sort.c
 A function that sorts an array of integers in ascending order using the
  Bubble sort algorithm <br>
